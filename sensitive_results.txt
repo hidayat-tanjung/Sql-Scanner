@@ -1,0 +1,10 @@
+https://www.bisecthosting.com//.env - ❌ Tidak ditemukan - 403
+https://www.bisecthosting.com//config.php - ❌ Tidak ditemukan - 404
+https://www.bisecthosting.com//database.sql - ❌ Tidak ditemukan - 404
+https://www.bisecthosting.com//backup.sql - ❌ Tidak ditemukan - 404
+https://www.bisecthosting.com//wp-config.php - ❌ Tidak ditemukan - 403
+https://www.bisecthosting.com//.git/config - ❌ Tidak ditemukan - 403
+https://www.bisecthosting.com//.htaccess - ❌ Tidak ditemukan - 403
+https://www.bisecthosting.com//admin/.env - ❌ Tidak ditemukan - 403
+https://www.bisecthosting.com//db_backup.sql - ❌ Tidak ditemukan - 404
+https://www.bisecthosting.com//logs/error.log - ❌ Tidak ditemukan - 403
