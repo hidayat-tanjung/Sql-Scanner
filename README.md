@@ -41,10 +41,6 @@ Jika ingin melakukan audit keamanan MySQL, masukkan IP atau domain server:
 - 🔍 **Laporkan bug atau minta fitur baru:** [Buka Issue](https://github.com/hidayat-tanjung/Sql-Scanner/issues)  
 - 🚀 **Ingin berkontribusi? Buat Pull Request:** [Kirim Pull Request](https://github.com/hidayat-tanjung/Sql-Scanner/your-repo-name/pulls)
 
-## ⚠ Disclaimer & Legalitas
-Tool ini dibuat hanya untuk pengujian keamanan pribadi dan pentesting yang diizinkan.
-🚨 Jangan digunakan untuk aktivitas ilegal atau tanpa izin dari pemilik sistem! 🚨
-
 ## 🛠 Cara Berkontribusi
 
 
