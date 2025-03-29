@@ -47,21 +47,20 @@ Tool ini dibuat hanya untuk pengujian keamanan pribadi dan pentesting yang diizi
 
 ## 🛠 Cara Berkontribusi
 
-Fork repository ini
-1. Fork repository ini
-2. Buat branch baru:
+
+1. Buat branch baru:
 ```console
 git checkout -b fitur-baru
 ```
-3. Lakukan perubahan & commit:
+2. Lakukan perubahan & commit:
 ```console
 git commit -m "Menambahkan fitur X"
 ```
-4. Push ke GitHub:
+3. Push ke GitHub:
 ```console
 git push origin fitur-baru
 ```
-5. Buat Pull Request! 🚀
+4. Buat Pull Request! 🚀
 
 ## 📜 Contoh Output
 ```console
